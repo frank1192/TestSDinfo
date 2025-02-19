@@ -23,5 +23,13 @@ export const teams = [
     location: "Piscina olímpica",
     email: "carlos.rodriguez@ejemplo.com",
   },
+  {
+    id: "Actividades Subacuáticas",
+    name: "Actividades Subacuáticas",
+    schedule: "Lunes, Miércoles y Viernes de 4:15 PM a 6:00 PM",
+    coach: "Brayan Andrés Valencia Aristizabal",
+    location: "Piscina (MELÉNDEZ)",
+    email: "brayan.valencia.aristizabal@correounivalle.edu.co",
+  },
 ]
 
