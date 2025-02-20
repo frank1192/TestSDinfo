@@ -153,7 +153,7 @@ export const teams = [
   },
   {
     id: "Natación Semillero	",
-    name: "Natación Mixtp Semillero ",
+    name: "Natación Mixto Semillero ",
     schedule: "Jueves de 12:00 a 2:00 PM",
     coach: "NO ASIGNADO",
     location: "Piscina, CDU (Meléndez, Univalle)",
