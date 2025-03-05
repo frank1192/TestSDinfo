@@ -24,11 +24,11 @@ export const teams = [
     email: "entrenador.ajedrez@correounivalle.edu.co",
   },
   {
-    id: "Atletismo Estudiantes y Funcionarios",
-    name: "Atletismo Femenino y Masculino Estudiantes",
-    schedule: "Lunes, Miercoles y Viernes de 2:00 PM a 4:00 PM, Martes, Jueves y Viernes de 5:30 PM a 7:30Pm Miércoles y Viernes de 6:30 AM a 8:30 AM",
+    id: "Atletismo Masculino y Femenino Estudiantes y Funcionarios",
+    name: "Atletismo Masculino y Femenino Estudiantes y Funcionarios ",
+    schedule: "Lunes, Miércoles y Viernes de 12:00 a 14:00. Nota:Equipo representativo entrenan en la liga de Atletismo estadio Pedro Grajales de Lunes a viernes de 4:30 a 8:00",
     coach: "José Arturo Posada Noreña",
-    location: "Pista de Trote Cancha #1 Melendez, El equipo representativo entrenan en la liga de Atletismo estadio Pedro Grajales de Lunes a viernes de 4:30PM a 8:00 PM",
+    location: "Pista de Trote",
     email: "saltoconpertiga@hotmail.com",
   },
   {
