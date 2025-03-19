@@ -7,14 +7,7 @@ export const teams = [
     location: "Piscina CDU (MELÉNDEZ)",
     email: "brayan.valencia.aristizabal@correounivalle.edu.co",
   },
-  {
-    id: "Actividades Subacuáticas Funcionarios ",
-    name: "Actividades Subacuáticas Femenino y Masculino",
-    schedule: "Martes, Miércoles, Jueves y Viernes de 5:00 PM a 7:00 PM",
-    coach: "NO ASIGNADO",
-    location: "Piscina CDU (MELÉNDEZ)",
-    email: "...",
-  },
+
   {
     id: "Ajedrez Estudiantes y Funcionarios",
     name: "Ajedrez Femenino/Masculino Estudiantes y Funcionarios",
