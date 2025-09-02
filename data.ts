@@ -291,7 +291,7 @@ export const teams = [
   {
     id: "Voleibol Arena - Selección",
     name: "Voleibol Arena - Selección",
-    schedule: "Lunes de 2:00 PM a 4:00 PM, Miércoles de 1:00 PM a 3:00 PM, Viernes de 10:30 AM a 12:30 PM, Sabados de 8:00 AM a 10:00 AM",
+    schedule: "Lunes y Miercoles de 10:00 AM a 12:00 PM, Y Viernes de 8:00AM a 10:00AM",
     coach: "Martha Cecilia Medina Aedo	",
     location: "Lunes Y Viernes Cancha Voleibol Arena CDU (Meléndez, Univalle), Miercoles y Sabado Cancha Barena 	",
     email: "marthacmedinaaedo@gmail.com",
@@ -299,7 +299,7 @@ export const teams = [
   {
     id: "Voleibol Arena Estudiantes Femenino ",
     name: "Voleibol Arena Estudiantes Femenino ",
-    schedule: "Lunes y Miercoles de 12:00 PM a 2:00 PM, Jueves de 7:00 AM a 9:00 AM",
+    schedule: "Lunes y Miercoles de 10:00 AM a 12:00 PM",
     coach: "Martha Cecilia Medina Aedo	",
     location: "Cancha Voleibol Arena, CDU (Meléndez, Univalle)",
     email: "marthacmedinaaedo@gmail.com",
@@ -307,7 +307,7 @@ export const teams = [
   {
     id: "Voleibol Arena Estudiantes Masculino ",
     name: "Voleibol Arena Estudiantes Masculino ",
-    schedule: "Lunes y Miercoles de 10:00 AM a 12:00 PM, Jueves de 7:00 AM a 9:00 AM",
+    schedule: "Lunes y Miercoles de 10:00 AM a 12:00 PM",
     coach: "Martha Cecilia Medina Aedo	",
     location: "Cancha Voleibol Arena, CDU (Meléndez, Univalle)",
     email: "marthacmedinaaedo@gmail.com",
